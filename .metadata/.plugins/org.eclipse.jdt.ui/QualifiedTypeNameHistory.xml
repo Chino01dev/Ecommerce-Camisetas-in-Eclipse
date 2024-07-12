@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.impl.FileCountLimitExceededException"/>
+    <fullyQualifiedTypeName name="modelo.Clientes"/>
+    <fullyQualifiedTypeName name="modelo.Categorias"/>
+    <fullyQualifiedTypeName name="modelo.Ventas"/>
+</qualifiedTypeNameHistroy>

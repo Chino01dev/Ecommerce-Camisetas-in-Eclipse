@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\jduwn\OneDrive\Escritorio\tienda virtual 2.0\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2274474344.index
+3931035880.index
+1213613334.index
+2367772747.index
+1224139101.index
+3688019668.index

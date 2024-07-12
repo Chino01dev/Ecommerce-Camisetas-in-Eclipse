@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\jduwn\OneDrive\Escritorio\tienda virtual 2.0\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\57998905.index
+\carrito\src\main\java
